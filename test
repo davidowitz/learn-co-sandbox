@@ -1,0 +1,18 @@
+<DOCTYPE html>
+
+<html> 
+  <head>
+    <title> my bio</title>
+  </head>
+  
+  <body>
+  <h1> Jordan Davidowitz</h1>
+  Hello, world
+  <h2 Directions</h2>
+02    <ol>
+03      <li>Go to north on Route 42.</li>
+04      <li>Make at left at Dawsons Hwy.</li>
+05      <li>Turn left at Smith Rd.</li>
+06    </ol>
+  </body>
+  </html>
